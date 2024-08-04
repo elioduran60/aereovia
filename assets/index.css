@@ -1,0 +1,14 @@
+.tipoletra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+.color{
+    background: #62DAD3;
+}
+.texto{
+    font: verdana;
+    color: blue;
+}
+
+input[type="date"] {
+    width: 20% !important;
+}
